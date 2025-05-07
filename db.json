@@ -1,0 +1,17 @@
+{
+    "users": [
+      { "id": 1, "name": "Akash", "postCount": 12 },
+      { "id": 2, "name": "Amogh", "postCount": 8 },
+      { "id": 3, "name": "Adarsh", "postCount": 15 },
+      { "id": 4, "name": "Abhishek", "postCount": 11 },
+      { "id": 5, "name": "Anantha", "postCount": 20 },
+      { "id": 6, "name": "Swapna", "postCount": 9 }
+    ],
+    "posts": [
+      { "id": 1, "userId": 2, "content": "Post A", "comments": 5, "timestamp": 1715078400000 },
+      { "id": 2, "userId": 3, "content": "Post B", "comments": 10, "timestamp": 1715080000000 },
+      { "id": 3, "userId": 5, "content": "Post C", "comments": 10, "timestamp": 1715082000000 },
+      { "id": 4, "userId": 1, "content": "Post D", "comments": 3, "timestamp": 1715085000000 },
+      { "id": 5, "userId": 6, "content": "Post E", "comments": 7, "timestamp": 1715086000000 }
+    ]
+  }
